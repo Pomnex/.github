@@ -53,6 +53,10 @@ When nothing in the plugin directory fits your business, we build a plugin that 
 
 Every project starts with a written quote and ships as clean, documented, security-reviewed code, on a foundation that can later grow into a SaaS product. The code is yours, and we can operate and maintain it after handover. [Request a quote →](https://pomnex.com/en/wordpress-plugin-development)
 
+### 🔗 Web3 to Web2 Integration (available)
+
+We connect Web3 technologies to your existing Web2 site. [Discuss your project →](https://pomnex.com/en/contact)
+
 ### 📡 Pomnex Pulse (coming soon)
 
 Our own product: an operations platform that brings all your sites into one dashboard, built for agencies and businesses that run more than one site.
