@@ -10,7 +10,7 @@
 **A WordPress Operations Company**
 
 [![Website](https://img.shields.io/badge/pomnex.com-2f6bff?style=flat-square&logo=googlechrome&logoColor=white)](https://pomnex.com/en)
-[![Email](https://img.shields.io/badge/hello%40pomnex.com-0b1220?style=flat-square&logo=gmail&logoColor=white)](mailto:support@pomnex.com)
+[![Email](https://img.shields.io/badge/support%40pomnex.com-0b1220?style=flat-square&logo=gmail&logoColor=white)](mailto:support@pomnex.com)
 [![Blog](https://img.shields.io/badge/Operations_Blog-6b7280?style=flat-square&logo=rss&logoColor=white)](https://pomnex.com/en/blog)
 
 </div>
