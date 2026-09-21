@@ -10,7 +10,7 @@
 **A WordPress Operations Company**
 
 [![Website](https://img.shields.io/badge/pomnex.com-2f6bff?style=flat-square&logo=googlechrome&logoColor=white)](https://pomnex.com/en)
-[![Email](https://img.shields.io/badge/hello%40pomnex.com-0b1220?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@pomnex.com)
+[![Email](https://img.shields.io/badge/hello%40pomnex.com-0b1220?style=flat-square&logo=gmail&logoColor=white)](mailto:support@pomnex.com)
 [![Blog](https://img.shields.io/badge/Operations_Blog-6b7280?style=flat-square&logo=rss&logoColor=white)](https://pomnex.com/en/blog)
 
 </div>
@@ -132,12 +132,12 @@ If your request falls outside our scope, we'll say so plainly, and point you to 
 
 ## Reporting a security issue
 
-If you find a vulnerability in any of our projects or systems, please don't open a public issue. Email [hello@pomnex.com](mailto:hello@pomnex.com) with a subject line starting with `[Security]`, a description of the issue, and steps to reproduce it. We'll work with you on it until it's resolved. We appreciate every responsible report.
+If you find a vulnerability in any of our projects or systems, please don't open a public issue. Email [support@pomnex.com](mailto:support@pomnex.com) with a subject line starting with `[Security]`, a description of the issue, and steps to reproduce it. We'll work with you on it until it's resolved. We appreciate every responsible report.
 
 ## Get in touch
 
 - 🌐 **Website:** [pomnex.com](https://pomnex.com/en)
-- ✉️ **Email:** [hello@pomnex.com](mailto:hello@pomnex.com)
+- ✉️ **Email:** [support@pomnex.com](mailto:support@pomnex.com)
 - 📝 **Operations blog:** [pomnex.com/en/blog](https://pomnex.com/en/blog)
 - 💬 **Start a project or ask a question:** [pomnex.com/en/contact](https://pomnex.com/en/contact)
 
